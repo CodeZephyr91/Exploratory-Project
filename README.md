@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Career Coach App
 
 A mature Streamlit career preparation app with role-specific agents for:
@@ -55,3 +56,6 @@ The app includes:
 - DSA coding mode with Python, C++, and Java answer-language selection
 - Readable ideal answer rendering with syntax-highlighted code blocks
 - Optional Qwen 32B routing for coding/math-heavy answer generation via `GROQ_CODE_MODEL`
+=======
+# Exploratory-Project
+>>>>>>> 13ebb782e1fadb74e24dbaa9633b70665d38efc3
